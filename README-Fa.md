@@ -11,7 +11,7 @@
 - گزینه حذف برای حذف آسان.
 
 ## نصب
-![Screenshot 2024-01-20 023214](https://github.com/masoudgb/Gost-ip6/assets/87688187/a52806ea-df45-4621-ba53-416d3ae802da)
+
 
 1. مطمئن شوید که دسترسی root را قبل از اجرای اسکریپت دارید.
 
@@ -23,11 +23,7 @@
 
 اسکریپت بر اساس انتخاب‌های شما Gost را نصب و پیکربندی می‌کند.
 
-## آموزش پروژه
 
-[![آموزش یوتیوب](https://img.youtube.com/vi/AHzhI7TUJSI/0.jpg)](https://youtu.be/AHzhI7TUJSI)
-
-حمایت از سازنده محترم ودیو: [کانال تلگرام](https://t.me/+2S96GjBZJ1cxYzVk)
 
 ## حذف نصب
 
