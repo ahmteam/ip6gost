@@ -19,7 +19,7 @@ Gost IP6 Script is a Bash script designed to simplify the setup of Gost tunnels 
 1. Ensure you have root privileges before running the script.
 
    ```bash
-   bash <(curl -Ls https://github.com/masoudgb/Gost-ip6/raw/main/Gost.sh)
+   bash <(curl -Ls https://github.com/ahmteam/ip6gost/blob/main/Gost.sh)
    ```
 
 2. Choose from the available options, including tunnel creation, port configuration, and protocol selection.
