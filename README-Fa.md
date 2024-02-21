@@ -16,7 +16,7 @@
 1. مطمئن شوید که دسترسی root را قبل از اجرای اسکریپت دارید.
 
    ```bash
-   bash <(curl -Ls https://github.com/masoudgb/Gost-ip6/raw/main/Gost.sh)
+   bash <(curl -Ls https://github.com/ahmteam/ip6gost/blob/main/Gost.sh)
 از بین گزینه‌های موجود، از جمله ایجاد تونل، پیکربندی پورت و انتخاب پروتکل، انتخاب کنید.
 
 دستورهای مورد نیاز برای ورود IP مقصد، پورت‌ها و ترجیحات پروتکل را دنبال کنید.
